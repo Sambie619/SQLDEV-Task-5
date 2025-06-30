@@ -30,3 +30,4 @@ Learn to combine data from multiple tables using various SQL JOINs.
 
 - Created the tables and inserted values acc to the contraints then combined the tables to get desired results using inner join,left join,right join and full outer join.
   Since full outer join is not supported in MySQL,I used union btw the left join and right join so as the results contain all the rows with or without a match.
+- The SQL script is in the 'task6.sql' file
